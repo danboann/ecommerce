@@ -6,5 +6,8 @@ As the examination date came closer, Mr Tan became increasingly nervous. He ofte
 
 When the examiner finally opened the door, Mr Tan took a deep breath and walked inside. He was telling himself that he had done his best and there was nothing more to worry about.
 
-dasdasdsadsadasda
+<<<<<<< HEAD
+Testing 123456
+=======
+>>>>>>> 4212ca14bff4d2f72754faa182a046b57fc72f29
 
